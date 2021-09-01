@@ -94,6 +94,8 @@ Davis, D. (2021) Machine Learning Tutorial – Feature Engineering and Feature S
 
 Dubey, A. (2018) Feature Selection Using Random Forest. Available at: https://towardsdatascience.com/feature-selection-using-random-forest-26d7b747597f (Accessed: 1 September 2021)
 
+Garg, S. (2021) How To Implement Feature Selection From Scratch In Python. Available at: https://medium.com/mlearning-ai/feature-selection-using-filter-method-python-implementation-from-scratch-375d86389003 (Accessed: 1 September 2021)
+
 Guyon, I. & Elisseeff, A. (2003) 'An Introduction to Variable and Feature Selection', Journal of Machine Learning Research, Vol. 3, pp. 1157-1182. Available at: https://jmlr.csail.mit.edu/papers/volume3/guyon03a/guyon03a.pdf (Accessed: 1 September 2021)
 
 MNU Munich & Pechenova, E. (2018) Feature Subset Selection. Available at: https://www.mathematik.uni-muenchen.de/~deckert/teaching/WS1819/ATML/pechenova_feature_selection.pdf (Accessed: 1 September 2021)
