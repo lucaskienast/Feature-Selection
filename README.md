@@ -42,6 +42,7 @@ Examples are:
 - Information gain 
 - ANOVA test (analysis of variance)
 - Correlation coefficient scores
+- Principal Component Analysis (PCA)
 
 ## Wrapper Methods
 Wrapper methods consider the selection of a set of features as a search problem, where different combinations are prepared, evaluated and compared to other combinations. A predictive model is used to evaluate a combination of features and assign a score based on model accuracy. The search process may be methodical such as a best-first search, it may stochastic such as a random hill-climbing algorithm, or it may use heuristics, like forward and backward passes to add and remove features.
