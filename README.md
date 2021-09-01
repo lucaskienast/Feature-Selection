@@ -86,11 +86,17 @@ Brownlee, J. (2021) An Introduction to Feature Selection. Available at: https://
 
 Brownlee, J. (2021) Feature Selection For Machine Learning in Python. Available at: https://machinelearningmastery.com/feature-selection-machine-learning-python/ (Accessed: 1 September 2021)
 
+Brownlee, J. (2020) How to Choose a Feature Selection Method For Machine Learning. Available at: https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/ (Accessed: 1 September 2021)
+
+Davis, D. (2021) Machine Learning Tutorial – Feature Engineering and Feature Selection For Beginners. Available at: https://www.freecodecamp.org/news/feature-engineering-and-feature-selection-for-beginners/ (Accessed: 1 September 2021)
+
 Dubey, A. (2018) Feature Selection Using Random Forest. Available at: https://towardsdatascience.com/feature-selection-using-random-forest-26d7b747597f (Accessed: 1 September 2021)
 
 Guyon, I. & Elisseeff, A. (2003) 'An Introduction to Variable and Feature Selection', Journal of Machine Learning Research, Vol. 3, pp. 1157-1182. Available at: https://jmlr.csail.mit.edu/papers/volume3/guyon03a/guyon03a.pdf (Accessed: 1 September 2021)
 
 MNU Munich & Pechenova, E. (2018) Feature Subset Selection. Available at: https://www.mathematik.uni-muenchen.de/~deckert/teaching/WS1819/ATML/pechenova_feature_selection.pdf (Accessed: 1 September 2021)
+
+Paul, S. (2020) Beginner's Guide to Feature Selection in Python. Available at: https://www.datacamp.com/community/tutorials/feature-selection-python (Accessed: 1 September 2021)
 
 Scikit-Learn (2021) Feature Selection. Available at: https://scikit-learn.org/stable/modules/feature_selection.html (Accessed: 1 September 2021)
 
