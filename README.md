@@ -82,6 +82,8 @@ See Regularized Regression Methods: https://github.com/lucaskienast/Regression-M
 
 Analytics Vidhya (2020) A comprehensive guide to Feature Selection using Wrapper methods in Python. Available at: https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/ (Accessed: 1 September 2021)
 
+Bex, T. (2021) Powerful Feature Selection with Recursive Feature Elimination (RFE) of Sklearn. Available at: https://towardsdatascience.com/powerful-feature-selection-with-recursive-feature-elimination-rfe-of-sklearn-23efb2cdb54e (Accessed: 1 September 2021)
+
 Brownlee, J. (2021) An Introduction to Feature Selection. Available at: https://machinelearningmastery.com/an-introduction-to-feature-selection/ (Accessed: 1 September 2021)
 
 Brownlee, J. (2021) Feature Selection For Machine Learning in Python. Available at: https://machinelearningmastery.com/feature-selection-machine-learning-python/ (Accessed: 1 September 2021)
@@ -93,6 +95,8 @@ Brownlee, J. (2020) Recursive Feature Elimination (RFE) for Feature Selection in
 Davis, D. (2021) Machine Learning Tutorial – Feature Engineering and Feature Selection For Beginners. Available at: https://www.freecodecamp.org/news/feature-engineering-and-feature-selection-for-beginners/ (Accessed: 1 September 2021)
 
 Dubey, A. (2018) Feature Selection Using Random Forest. Available at: https://towardsdatascience.com/feature-selection-using-random-forest-26d7b747597f (Accessed: 1 September 2021)
+
+Effrosynidis, D. (2021) Feature Selection for Machine Learning: 3 Categories and 12 Methods. Available at: https://towardsdatascience.com/feature-selection-for-machine-learning-3-categories-and-12-methods-6a4403f86543 (Accessed: 1 September 2021)
 
 Garg, S. (2021) How To Implement Feature Selection From Scratch In Python. Available at: https://medium.com/mlearning-ai/feature-selection-using-filter-method-python-implementation-from-scratch-375d86389003 (Accessed: 1 September 2021)
 
