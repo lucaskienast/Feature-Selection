@@ -85,3 +85,5 @@ Brownlee, J. (2021) An Introduction to Feature Selection. Available at: https://
 Brownlee, J. (2021) Feature Selection For Machine Learning in Python. Available at: https://machinelearningmastery.com/feature-selection-machine-learning-python/ (Accessed: 1 September 2021)
 
 Guyon, I. & Elisseeff, A. (2003) 'An Introduction to Variable and Feature Selection', Journal of Machine Learning Research, Vol. 3, pp. 1157-1182. Available at: https://jmlr.csail.mit.edu/papers/volume3/guyon03a/guyon03a.pdf (Accessed: 1 September 2021)
+
+Scikit-Learn (2021) Feature Selection. Available at: https://scikit-learn.org/stable/modules/feature_selection.html (Accessed: 1 September 2021)
