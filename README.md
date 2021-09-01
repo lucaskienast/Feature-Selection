@@ -93,3 +93,5 @@ Guyon, I. & Elisseeff, A. (2003) 'An Introduction to Variable and Feature Select
 MNU Munich & Pechenova, E. (2018) Feature Subset Selection. Available at: https://www.mathematik.uni-muenchen.de/~deckert/teaching/WS1819/ATML/pechenova_feature_selection.pdf (Accessed: 1 September 2021)
 
 Scikit-Learn (2021) Feature Selection. Available at: https://scikit-learn.org/stable/modules/feature_selection.html (Accessed: 1 September 2021)
+
+Shaikh, R. (2018) Feature Selection Techniques in Machine Learning with Python. Available at: https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e (Accessed: 1 September 2021)
