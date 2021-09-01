@@ -71,11 +71,12 @@ Summary:
 
 Examples:
 
+- Random Forest Feature Importance
 - LASSO Regression
 - Ridge Regression
 - ElasticNet Regression
 
-See: https://github.com/lucaskienast/Regression-Models
+See Regularized Regression Methods: https://github.com/lucaskienast/Regression-Models
 
 ## References
 
@@ -84,6 +85,8 @@ Analytics Vidhya (2020) A comprehensive guide to Feature Selection using Wrapper
 Brownlee, J. (2021) An Introduction to Feature Selection. Available at: https://machinelearningmastery.com/an-introduction-to-feature-selection/ (Accessed: 1 September 2021)
 
 Brownlee, J. (2021) Feature Selection For Machine Learning in Python. Available at: https://machinelearningmastery.com/feature-selection-machine-learning-python/ (Accessed: 1 September 2021)
+
+Dubey, A. (2018) Feature Selection Using Random Forest. Available at: https://towardsdatascience.com/feature-selection-using-random-forest-26d7b747597f (Accessed: 1 September 2021)
 
 Guyon, I. & Elisseeff, A. (2003) 'An Introduction to Variable and Feature Selection', Journal of Machine Learning Research, Vol. 3, pp. 1157-1182. Available at: https://jmlr.csail.mit.edu/papers/volume3/guyon03a/guyon03a.pdf (Accessed: 1 September 2021)
 
