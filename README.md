@@ -127,7 +127,11 @@ Bex, T. (2021) Powerful Feature Selection with Recursive Feature Elimination (RF
 
 Brownlee, J. (2021) An Introduction to Feature Selection. Available at: https://machinelearningmastery.com/an-introduction-to-feature-selection/ (Accessed: 1 September 2021)
 
+Brownlee, J. (2020) Feature Importance and Feature Selection With XGBoost in Python. Available at: https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python/ (Accessed: 2 September 2021)
+
 Brownlee, J. (2021) Feature Selection For Machine Learning in Python. Available at: https://machinelearningmastery.com/feature-selection-machine-learning-python/ (Accessed: 1 September 2021)
+
+Brownlee, J. (2020) How to Calculate Feature Importance With Python. Available at: https://machinelearningmastery.com/calculate-feature-importance-with-python/ (Accessed: 2 September 2021)
 
 Brownlee, J. (2020) How to Choose a Feature Selection Method For Machine Learning. Available at: https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/ (Accessed: 1 September 2021)
 
