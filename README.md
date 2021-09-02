@@ -99,6 +99,7 @@ Examples:
 - Forward feature selection
 - Backward feature elimination
 - Stepwise selection
+- Permutation Feature Selection
 
 ## Embedded Methods
 Embedded methods learn which features best contribute to the accuracy of the model while the model is being created. The most common type of embedded feature selection methods are regularization methods. Regularization methods are also called penalization methods that introduce additional constraints into the optimization of a predictive algorithm (such as a regression algorithm) that bias the model toward lower complexity (fewer coefficients).
