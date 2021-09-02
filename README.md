@@ -13,6 +13,13 @@ There are three general classes of feature selection algorithms:
 - Wrapper methods
 - Embedded methods
 
+## Installation
+Use `git clone` to get a copy of this repository.
+```
+$ git clone https://github.com/lucaskienast/Feature-Selection.git
+$ cd Feature-Selection
+```
+
 ## Note on Overfitting
 It is important to consider feature selection a part of the model selection process. If you do not, you may inadvertently introduce bias into your models which can result in overfitting. You should do feature selection on a different dataset than you train your predictive model on, because the effect of not doing this is you will overfit your training data. 
 
