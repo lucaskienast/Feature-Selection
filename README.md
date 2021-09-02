@@ -109,3 +109,5 @@ Paul, S. (2020) Beginner's Guide to Feature Selection in Python. Available at: h
 Scikit-Learn (2021) Feature Selection. Available at: https://scikit-learn.org/stable/modules/feature_selection.html (Accessed: 1 September 2021)
 
 Shaikh, R. (2018) Feature Selection Techniques in Machine Learning with Python. Available at: https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e (Accessed: 1 September 2021)
+
+Sharma, P. (2018) The Ultimate Guide to 12 Dimensionality Reduction Techniques (with Python codes). Available at: https://www.analyticsvidhya.com/blog/2018/08/dimensionality-reduction-techniques-python/ (Accessed: 31 August 2021)
