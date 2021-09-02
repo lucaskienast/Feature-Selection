@@ -132,6 +132,8 @@ Brownlee, J. (2020) How to Choose a Feature Selection Method For Machine Learnin
 
 Brownlee, J. (2020) How to Perform Feature Selection with Categorical Data. Available at: https://machinelearningmastery.com/feature-selection-with-categorical-data/ (Accessed: 2 September 2021)
 
+Brownlee, J. (2020) How to Perform Feature Selection for Regression Data. Available at: https://machinelearningmastery.com/feature-selection-for-regression-data/ (Accessed: 2 September 2021)
+
 Brownlee, J. (2020) Ordinal and One-Hot Encodings for Categorical Data. Available at: https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/ (Accessed: 2 September 2021)
 
 Brownlee, J. (2020) Recursive Feature Elimination (RFE) for Feature Selection in Python. Available at: https://machinelearningmastery.com/rfe-feature-selection-in-python/ (Accessed: 1 September 2021)
