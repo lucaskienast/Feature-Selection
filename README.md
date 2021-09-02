@@ -53,6 +53,27 @@ Examples are:
 - High correlation filter
 - (Dimensionality Reduction)
 
+### Numerical Input & Output
+This is a regression predictive modeling problem with numerical input variables. The most common techniques are to use a correlation coefficient, such as Pearson’s for a linear correlation, or rank-based methods for a nonlinear correlation.
+
+- Pearson’s correlation coefficient (linear).
+- Spearman’s rank coefficient (nonlinear)
+
+### Numerical Input & Categorical Output
+This is a classification predictive modeling problem with numerical input variables. This might be the most common example of a classification problem. Again, the most common techniques are correlation based, although in this case, they must take the categorical target into account. Kendall does assume that the categorical variable is ordinal.
+
+- ANOVA correlation coefficient (linear).
+- Kendall’s rank coefficient (nonlinear).
+
+### Categorical Input & Numerical Output
+This is a regression predictive modeling problem with categorical input variables. This is a strange example of a regression problem (e.g. you would not encounter it often). Nevertheless, you can use the same “Numerical Input, Categorical Output” methods (described above), but in reverse.
+
+### Categorical Input & Output
+This is a classification predictive modeling problem with categorical input variables. The most common correlation measure for categorical data is the chi-squared test. You can also use mutual information (information gain) from the field of information theory. In fact, mutual information is a powerful method that may prove useful for both categorical and numerical data, e.g. it is agnostic to the data types.
+
+- Chi-Squared test (contingency tables)
+- Mutual Information
+
 ## Wrapper Methods
 Wrapper methods consider the selection of a set of features as a search problem, where different combinations are prepared, evaluated and compared to other combinations. A predictive model is used to evaluate a combination of features and assign a score based on model accuracy. The search process may be methodical such as a best-first search, it may stochastic such as a random hill-climbing algorithm, or it may use heuristics, like forward and backward passes to add and remove features.
 
