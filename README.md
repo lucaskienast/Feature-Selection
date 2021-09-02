@@ -1,6 +1,12 @@
 # Feature Selection
 It is possible to automatically select those features in your data that are most useful or most relevant for the problem you are working on. This is a process called feature selection. Feature selection is different from dimensionality reduction. Both methods seek to reduce the number of attributes in the dataset, but a dimensionality reduction method do so by creating new combinations of attributes, where as feature selection methods include and exclude attributes present in the data without changing them. Feature selection methods can be used to identify and remove unneeded, irrelevant and redundant attributes from data that do not contribute to the accuracy of a predictive model or may in fact decrease the accuracy of the model.
 
+There are 2 (3) types of feature selection that differ based on whether features are selected via the target variable or not.
+
+- Supervised (use target variable)
+- Unsupervised (ignore target vraible)
+- (Dimensionality reduction, see: https://github.com/lucaskienast/Dimensionality-Reduction)
+
 There are three general classes of feature selection algorithms: 
 
 - Filter methods
@@ -41,8 +47,11 @@ Examples are:
 - Chi squared test
 - Information gain 
 - ANOVA test (analysis of variance)
-- Correlation coefficient scores
-- Principal Component Analysis (PCA)
+- Feature Importance (Non-Embedded)
+- Missing value ratio
+- Low variance filter
+- High correlation filter
+- (Dimensionality Reduction)
 
 ## Wrapper Methods
 Wrapper methods consider the selection of a set of features as a search problem, where different combinations are prepared, evaluated and compared to other combinations. A predictive model is used to evaluate a combination of features and assign a score based on model accuracy. The search process may be methodical such as a best-first search, it may stochastic such as a random hill-climbing algorithm, or it may use heuristics, like forward and backward passes to add and remove features.
@@ -56,8 +65,8 @@ Summary:
 Examples:
 
 - Recursive feature elimination
-- Forward selection
-- Backward elimination
+- Forward feature selection
+- Backward feature elimination
 - Stepwise selection
 
 ## Embedded Methods
@@ -71,10 +80,10 @@ Summary:
 
 Examples:
 
-- Random Forest Feature Importance
 - LASSO Regression
 - Ridge Regression
 - ElasticNet Regression
+- Feature Importance (Embedded)
 
 See Regularized Regression Methods: https://github.com/lucaskienast/Regression-Models
 
